@@ -5,8 +5,7 @@ In order to obtain a better understanding of both Java and lower-level architect
 
 
 ## Assembler Demo
-![](demo.gif)
-Above is a demo of the Add Accumulator, Subtract Accumulator, Arithmetic Shift Left Accumulator, Branch, and End instructions.
+![A demo of the Add Accumulator, Subtract Accumulator, Arithmetic Shift Left Accumulator, Branch, and End instructions.](demo.gif)
 
 ## Addressing Instructions:
 The compiler is able to distinguish and translate the following mnemonic instructions:
