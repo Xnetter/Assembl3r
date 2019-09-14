@@ -30,7 +30,3 @@ Assembler accommodates indirect, direct, stack, stack-relative deferred, indexed
 
 ## Pep9
 The machine code my program produces is in accordance with the Pep9 Machine Code compiler, which is what my department uses at Pepperdine University. If you’d like to try running the resulting machine code yourself, feel free to check out the application here.
-
-I will post an in depth walk-through of the grammar, the finite state machine, and the mechanics behind this program very soon, just as I have done with my other portfolio objects. Stay tuned!
-
-For now, feel free to check out the source code on my GitHub!
