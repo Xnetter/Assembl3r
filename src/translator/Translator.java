@@ -49,6 +49,8 @@ public class Translator {
                             localMnemon = Maps.nonunaryMnemonTable.get(tempStr.toUpperCase());
                             state = ParseState.PS_NONUNARY;
                         }
+                        else
+                            aCode = new Error("Unrecognized Mnemonic");
                     }
                     else if(aToken instanceof TDotCommand)
                     {
